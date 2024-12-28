@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caglar_-contraction/static/css/main.e6c13ad2.css",
+    "main.js": "/caglar_-contraction/static/js/main.5c0c0746.js",
+    "static/js/488.6be46801.chunk.js": "/caglar_-contraction/static/js/488.6be46801.chunk.js",
+    "index.html": "/caglar_-contraction/index.html",
+    "main.e6c13ad2.css.map": "/caglar_-contraction/static/css/main.e6c13ad2.css.map",
+    "main.5c0c0746.js.map": "/caglar_-contraction/static/js/main.5c0c0746.js.map",
+    "488.6be46801.chunk.js.map": "/caglar_-contraction/static/js/488.6be46801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5c0c0746.js"
+  ]
+}
